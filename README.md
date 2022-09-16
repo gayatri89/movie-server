@@ -13,3 +13,5 @@ Here is the assignment:
 - Search for movies that match the client's search term
 - Adding a new movie and its information to the database
 - Because of limited time, you should focus on your strengths in your implementation. We’re more interested in how you’ve implemented things than in how much functionality you’ve had time to implement. It's totally fine that the service has very rough looks and that you haven't implemented all the use cases.
+
+- Endpoint URI: http://localhost:3000/api/movies  
